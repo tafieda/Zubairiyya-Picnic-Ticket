@@ -1,6 +1,7 @@
 # Zubairiyya Picnic Ticket System
 Zubairiyya is a one of the many families with deeper origin in Kano State.
 ## About the Ticket System
+A ticket system designed to help eradicate duplication and forgery. Designed for Zubairiyya family, Kano State, Nigeria.
 The ticket idea came into existence when i was given the chance to design the event flyer and ticket. i thought of why not add a system that will avoid ticket duplication. i faced alot of challenges while coding.
 The language used are: 
 * HTML
